@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vzq666
-- 👀 I’m interested in **_crxpto and Cyber related stuff_**
+- 👀 I’m interested in **_crypto and Cyber related stuff_** - development (mobile), ethical, AI + KI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
