@@ -1,15 +1,19 @@
-- 👋 Hi, I’m @Vzq666
-- 👀 I’m interested in **_crypto and Cyber related stuff_** - development (mobile), ethical, AI + KI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-datboivizq@t-online.de
-@bit.ly/
-@mastodon.social : 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Willkommen auf meinem GitHub-Profil!
 
-<!---
-Vzq666/Vzq666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ABOUT ME
+
+Hello! I am thisboyvizq aka vzq and im starting to learn HTML and Web Development.I will use this Plaform to document my my project and improving my skills.
+
+## Aktuelle Projekte
+- [AI & KI](Link zum Repository):First HTML try with topic AI and Cyber Threats.
+
+## Contact 
+- **GitHub:** [vzq666]()
+- **E-Mail:** [datboivizq@gmail.com]
+- **bit.ly**
+- **ITFTTT*
+- 
+Looking forward for help or work together.
+
+Peacec,
+vzq
